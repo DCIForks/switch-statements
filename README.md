@@ -1,8 +1,9 @@
 # Switch statements
 
 ## 1. World Cup Winners
-Here is data in JSON format (JavaScript Object Notation), giving the winners of the FIFA World Cup since 1934.
+Here is data in [JSON format (JavaScript Object Notation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)), giving the winners of the FIFA World Cup since 1934.
 
+```json
  { "Brazil": [1958, 1962, 1970, 1994, 2002]
  , "Germany":	[1954, 1974, 1990, 2014]
  , "Italy": [1934, 1938, 1982, 2006]
@@ -12,6 +13,7 @@ Here is data in JSON format (JavaScript Object Notation), giving the winners of
  , "Spain": [2010]
  , "England": [1966]
  }
+ ```
 
 Create a variable called `winner`.
 Create a variable called year, and give it a value between 1934 and 2018.
